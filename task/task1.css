@@ -1,0 +1,11 @@
+ul li {
+    list-style: none;
+    display: inline;
+    padding: 20px;
+}
+.reset{
+    color: rgb(20, 230, 104);
+}
+#submit{
+    color: rgb(223, 45, 45);
+}
